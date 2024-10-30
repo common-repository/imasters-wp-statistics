@@ -1,0 +1,316 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: iMasters WP Incoming Links\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-09-16 10:18-0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: w3invent <daniel.w3invent@gmail.com>\n"
+"Language-Team: Apiki <leandro@apiki.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: BRAZIL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ../..\n"
+
+#: ../../imasters-wp-statistics-default.php:37
+msgid " iMasters WP Statistics"
+msgstr " iMasters WP Estatísticas"
+
+#: ../../imasters-wp-statistics-default.php:41
+msgid "Post types - Total Usage from Posts, Pages and Attachments: "
+msgstr "Tipos de Post - Total de Posts, Páginas e Arquivos: "
+
+#: ../../imasters-wp-statistics-default.php:45
+msgid "Posts"
+msgstr "Posts"
+
+#: ../../imasters-wp-statistics-default.php:45
+msgid "Pages"
+msgstr "Páginas"
+
+#: ../../imasters-wp-statistics-default.php:45
+msgid "Attachment"
+msgstr "Arquivos"
+
+#: ../../imasters-wp-statistics-default.php:50
+msgid "Post status - Total Posts: "
+msgstr "Status do post - Total de Posts:  "
+
+#: ../../imasters-wp-statistics-default.php:54
+msgid "Published"
+msgstr "Publicado"
+
+#: ../../imasters-wp-statistics-default.php:54
+msgid "Private"
+msgstr "Privado"
+
+#: ../../imasters-wp-statistics-default.php:54
+msgid "Draft"
+msgstr "Rascunho"
+
+#: ../../imasters-wp-statistics-default.php:54
+msgid "Pending"
+msgstr "Pendente"
+
+#: ../../imasters-wp-statistics-default.php:54
+msgid "Future"
+msgstr "Futuro"
+
+#: ../../imasters-wp-statistics-default.php:61
+msgid "Users monthly registered"
+msgstr "Usuários registrados mensalmente"
+
+#: ../../imasters-wp-statistics-default.php:61
+msgid " - All("
+msgstr "- Todos("
+
+#: ../../imasters-wp-statistics-default.php:72
+msgid "Post publications by users "
+msgstr "Usuários que mais publicam"
+
+#: ../../imasters-wp-statistics-default.php:83
+msgid "Posts per category "
+msgstr "Categorias por post"
+
+#: ../../imasters-wp-statistics-default.php:94
+msgid "Status comments - Total Comments: "
+msgstr "Status do Comentário - Total de Comentários: "
+
+#: ../../imasters-wp-statistics-default.php:98
+msgid "Approved"
+msgstr "Aprovado"
+
+#: ../../imasters-wp-statistics-default.php:98
+msgid "Moderated"
+msgstr "Moderado"
+
+#: ../../imasters-wp-statistics-default.php:98
+msgid "Spam"
+msgstr "Spam"
+
+#: ../../imasters-wp-statistics-default.php:103
+msgid "Comments type - Total Comments: "
+msgstr "Tipo de comentário - Total de Comentários: "
+
+#: ../../imasters-wp-statistics-default.php:107
+msgid "Comments"
+msgstr "Comentários"
+
+#: ../../imasters-wp-statistics-default.php:107
+msgid "PingBack"
+msgstr "PingBack"
+
+#: ../../imasters-wp-statistics-uninstall.php:9
+msgid "UNINSTALL iMasters WP Statistics"
+msgstr "DESINSTALAÇÃO do iMasters WP Estatísticas"
+
+#: ../../imasters-wp-statistics-uninstall.php:10
+#, php-format
+msgid "<a href=\"%s\">Click Here</a> To Uninstall And Deactivated Automatically iMasters WP Statistics."
+msgstr "<a href=\"%s\">Clique Aqui</a> Para desinstalar e desativar o iMasters WP Estatísticas."
+
+#: ../../imasters-wp-statistics.php:51
+msgid "Statistics"
+msgstr "Estatísticas"
+
+#: ../../imasters-wp-statistics.php:52
+msgid "Uninstall"
+msgstr "Desinstalação"
+
+#: ../../imasters-wp-statistics.php:157
+msgid "Jan"
+msgstr "Jan"
+
+#: ../../imasters-wp-statistics.php:158
+msgid "Feb"
+msgstr "Fev"
+
+#: ../../imasters-wp-statistics.php:159
+msgid "Mar"
+msgstr "Mar"
+
+#: ../../imasters-wp-statistics.php:160
+msgid "Apr"
+msgstr "Abr"
+
+#: ../../imasters-wp-statistics.php:161
+msgid "May"
+msgstr "Mai"
+
+#: ../../imasters-wp-statistics.php:162
+msgid "Jun"
+msgstr "Jun"
+
+#: ../../imasters-wp-statistics.php:163
+msgid "Jul"
+msgstr "Jul"
+
+#: ../../imasters-wp-statistics.php:164
+msgid "Aug"
+msgstr "Ago"
+
+#: ../../imasters-wp-statistics.php:165
+msgid "Sep"
+msgstr "Set"
+
+#: ../../imasters-wp-statistics.php:166
+msgid "Oct"
+msgstr "Out"
+
+#: ../../imasters-wp-statistics.php:167
+msgid "Nov"
+msgstr "Nov"
+
+#: ../../imasters-wp-statistics.php:168
+msgid "Dec"
+msgstr "Dez"
+
+#: ../../imasters-wp-statistics.php:214
+msgid "Users"
+msgstr "Usuários"
+
+#: ../../imasters-wp-statistics.php:232
+msgid "Month/Year"
+msgstr "Mês/Ano"
+
+#: ../../imasters-wp-statistics.php:249
+msgid "Category"
+msgstr "Categorias"
+
+#~ msgid "iMasters WP Statistics"
+#~ msgstr "iMasters WP Estatísticas"
+
+#, fuzzy
+#~ msgid "Post types - Total Database Usage: "
+#~ msgstr "Tipos de Post - Utilização do Banco de Dados: "
+#~ msgid "Top 15 post publications by users "
+#~ msgstr "15 primeiros usuários que mais publicam"
+#~ msgid "Top 15 posts per category"
+#~ msgstr "15 primeiras categorias por post"
+#~ msgid "February"
+#~ msgstr "Fevereiro"
+#~ msgid "September"
+#~ msgstr "Setembro"
+#~ msgid "November"
+#~ msgstr "Novembro"
+#~ msgid "December"
+#~ msgstr "Dezembro"
+#~ msgid "Post Status"
+#~ msgstr "Estatus do Post"
+#~ msgid "UNINSTALL iMasters WP Internal Links"
+#~ msgstr "Desinstalar iMasters WP Estatísticas"
+#~ msgid "Usage Blog"
+#~ msgstr "Utilização do Blog"
+#~ msgid "Amount of posts"
+#~ msgstr "Quantidade de Posts"
+#~ msgid "Amount of the user's posts"
+#~ msgstr "Quantidade de posts por usuário"
+#~ msgid "Amount of comments"
+#~ msgstr "Quantidade de comentário"
+#~ msgid " Referenced in: "
+#~ msgstr "Referenciado em:"
+#~ msgid "24h"
+#~ msgstr "24h"
+#~ msgid "1 week"
+#~ msgstr "1 Semana"
+#~ msgid "1 month"
+#~ msgstr "1 mês"
+#~ msgid "Times"
+#~ msgstr "Vezes"
+#~ msgid "Origin Page"
+#~ msgstr "Página de Origem"
+#~ msgid "Target Page"
+#~ msgstr "Página de Destino"
+#~ msgid "Any log registed yet..."
+#~ msgstr "Nenhum registro cadastrado."
+#~ msgid "Google Blog Search"
+#~ msgstr "Google Blog Search"
+#~ msgid "More &raquo;"
+#~ msgstr "Mais &raquo;"
+#~ msgid "Description"
+#~ msgstr "Descrição"
+#~ msgid "Any log register inserted in Google Blog Search"
+#~ msgstr "Nenhum registro cadastrado."
+#~ msgid "Settings"
+#~ msgstr "Configurações"
+#~ msgid "Google Blog Search Listing"
+#~ msgstr "Listagem do Google Blog Search"
+#~ msgid "It determines how many links will be striped"
+#~ msgstr "Determina quantas vezes serão listados os links"
+#~ msgid "Clear Logs from Imasters WP incomming Links"
+#~ msgstr "Limpa os Logs do iMasters WP Links de Entrada"
+#~ msgid "Clear Log"
+#~ msgstr "Limpar Log"
+#~ msgid "It drop all registers of incoming links inside your database"
+#~ msgstr ""
+#~ "Apaga todos os registros dos Links de Entrada dentro do seu banco de dados"
+#~ msgid "<li>Table '%s' has been deleted.</li>"
+#~ msgstr "<li>Tabela '%s' foi deletada. </li>"
+#~ msgid "Setting Key '%s' has been deleted."
+#~ msgstr "Opção '%s' foi deletada."
+#~ msgid "Error deleting Setting Key '%s'."
+#~ msgstr "Erro ao deletar a opção '%s'."
+#~ msgid ""
+#~ "The logs inserted by iMasters WP Incoming Links <strong>WILL NOT</strong> "
+#~ "be deleted. You will have to delete it manually."
+#~ msgstr ""
+#~ "Os Logs inseridos por iMasters Wp Incoming Links <strong> SERÃO </"
+#~ "strong>  deletados."
+#~ msgid "Uninstall iMasters WP Incoming Links"
+#~ msgstr "Desinstalar iMasters WP Links de Entrada"
+#~ msgid ""
+#~ "Deactivating iMasters WP Incoming Links plugin does not remove any data "
+#~ "that may have been created. To completely remove this plugin, you can "
+#~ "uninstall it here."
+#~ msgstr ""
+#~ "Desativando o plugin iMasters Incoming Links não serão removidados os "
+#~ "dados inseridos no banco de dados. Somente esta página remove "
+#~ "completamente o plugin."
+#~ msgid "NOTE:"
+#~ msgstr "NOTA:"
+#~ msgid ""
+#~ "The logs by iMasters WP Incoming Links <strong> WILL </strong> be deleted."
+#~ msgstr ""
+#~ "Os Logs inseridos por iMasters Wp Incoming Links <strong> SERÃO </"
+#~ "strong>  deletados."
+#~ msgid "WARNING:"
+#~ msgstr "ATENÇÃO:"
+#~ msgid ""
+#~ "Once uninstalled, this cannot be undone. You should use a Database Backup "
+#~ "plugin of WordPress to back up all the data first."
+#~ msgstr ""
+#~ "Uma vez desinstalado, não poderá ser desfeito. Faça um Backup do seu "
+#~ "banco de dados primeiro."
+#~ msgid "The following WordPress Options/Tables will be DELETED:"
+#~ msgstr "Todas as Opções/Tabelas do WordPress foram DELETADAS:"
+#~ msgid "WordPress Options"
+#~ msgstr "Opções WordPress"
+#~ msgid "WordPress Tables"
+#~ msgstr "Tabelas WordPress"
+#~ msgid "Yes"
+#~ msgstr "Sim"
+#~ msgid ""
+#~ "You Are About To UNINSTALL iMasters WP incoming Links From WordPress."
+#~ "\\nThis Action Is Not Reversible.\\n\\n Choose [Cancel] To Stop, [OK] To "
+#~ "Uninstall."
+#~ msgstr ""
+#~ "Você está a ponto de desinstalar iMasters WP Incoming Links do WordPress. "
+#~ "\\nEsta ação é irreversível. \\n\\nEscolha [Cancel] para Cancelar, [OK] "
+#~ "para Desinstalar."
+#~ msgid "iMasters WP Incoming Links Unistall"
+#~ msgstr "Desinstalar iMasters WP Links de Entrada"
+#~ msgid "Are you sure that want clear the logs from Database?"
+#~ msgstr "Tem certeza que quer limpar os logs do banco de dados?"
+
+#, fuzzy
+#~ msgid "&laquo;"
+#~ msgstr "Mais &raquo;"
+
+#, fuzzy
+#~ msgid "&raquo;"
+#~ msgstr "Mais &raquo;"
+
